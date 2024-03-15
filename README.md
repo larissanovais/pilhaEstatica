@@ -1,2 +1,2 @@
 # pilhaEstatica
-C
+- Atividade desenvolvida em aula na linguagem C
